@@ -4,4 +4,4 @@ The application allow users add and remove "Income" and "Expenses. Calculating t
 
 ## Demo Budgety app
 
-See demo: <a href="#" target="_blank">Budgety app</a>
+See demo: <a href="https://budgety2-app.netlify.app/" target="_blank">Budgety app</a>
